@@ -5,8 +5,8 @@
 
 ***CONTACT ME IF YOU HAVE ISSUES, I CAN BE FOUND BELOW***
 
-***Discord: gerardistheway*** | 
-***Email: AllPanicNoDisco@protonmail.com***
+***Discord: mychemicalmisfit*** | 
+***Email: mychemicalmisfit@hotmail.com***
 
 ***yes, my text formatting sucks and I have shitty taste in music. cry about it on 4chan.***
 
