@@ -14,7 +14,7 @@
 
 ***Written with love by Null, a bored NEET from Toronto, Canada***
 
-**If you run into problems, find me on discord: _crummysoda_** <3
+**If you run into problems, find me on discord: _mychemicalmisfit_** <3
 
 ***\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\*\****\*
 
