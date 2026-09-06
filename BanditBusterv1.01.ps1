@@ -28,7 +28,7 @@ Write-Host "====================================================================
 Write-Host "* * * [+] CryptoBandits.B BanditBuster Tool by Null   * * *" -ForegroundColor Cyan
 Write-Host "======================================================================" -ForegroundColor Cyan
 Write-Host "Run as administrator, shit wont work otherwise." -ForegroundColor Gray
-Write-Host "Written by //Null (crummysoda on discord- Yeah I tagged myself, so what.)" -ForegroundColor Gray
+Write-Host "Written by //Null (mychemicalmisfit on discord- Yeah I tagged myself, so what.)" -ForegroundColor Gray
 Write-Host "From Toronto, Canada. This is my first ever cleanup tool, and stuff." -ForegroundColor Gray
 Write-Host "After all this, make sure to follow up with a regular malware scan." -ForegroundColor Gray
 Write-Host "======================================================================" -ForegroundColor Cyan
