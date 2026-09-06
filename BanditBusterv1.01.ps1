@@ -140,8 +140,8 @@ Write-Host "--------------------------------------------------" -ForegroundColor
 Write-Host ""
 Write-Host "Cleanup should be complete, system will restart. Have a lovely day!" -ForegroundColor Cyan
 Write-Host "Please follow up with a Windows Defender scan" -ForegroundColor Magenta
-Write-Host "ADD ME ON DISCORD: crummysoda, ADD ME ON GITHUB: Nullvoide" -ForegroundColor Magenta
-Write-Host "Crypto sucks, it's not worth it or a good rpelacement for income." -ForegroundColor Red
+Write-Host "ADD ME ON DISCORD: mychemicalmisfit, ADD ME ON GITHUB: Ohbitchuary" -ForegroundColor Magenta
+Write-Host "Crypto sucks, it's not worth it or a good replacement for income." -ForegroundColor Red
 
 shutdown.exe /r /f /t 15
 
